@@ -7,4 +7,3 @@ public class CommonConstants {
 
     public static final int TEXTFIELD_SIZE = 15;
 }
-

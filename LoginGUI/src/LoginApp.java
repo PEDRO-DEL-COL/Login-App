@@ -5,4 +5,3 @@ public class LoginApp {
         new LoginGUI().setVisible(true);
     }
 }
-
